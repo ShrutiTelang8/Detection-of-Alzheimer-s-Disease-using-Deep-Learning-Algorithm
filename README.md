@@ -1,1 +1,1 @@
-# Detection-of-Alzheimer-s-Disease-using-Deep-Learning-Algorithm
+# Detection of Alzheimer's Disease using Deep Learning

@@ -7,4 +7,4 @@
 
 Data set for this project was obtained from ADNI ( Alzheimer’s Disease Neuroimaging Initiative). 
 
- Pre-processing involved separating the brain tissues in MRI scans. The effect of Alzheimer's Disease on a brain can be understood by observing its grey matter(that shrinks as an effect of the disease). Hence, grey matter from the MRI was extracted. This was done using MATLAB (for middle most slice of each MRI scan).  
+ Pre-processing involved separating the brain tissues in MRI scans. The effect of Alzheimer's Disease on a brain can be understood by observing its grey matter(that shrinks as an effect of the disease). Hence, grey matter from the MRI was extracted. This was done using MATLAB (for the middle most slice of each MRI scan).  
